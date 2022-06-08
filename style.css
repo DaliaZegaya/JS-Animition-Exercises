@@ -1,0 +1,10 @@
+#my_div {
+    width: 30vw;
+    background-color: orange;
+}
+
+#color_div {
+    height: 30vh;
+    width: 30vw;
+    background-color: aqua;
+}
